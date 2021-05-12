@@ -1,0 +1,237 @@
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: auto;
+  font-family: Verdana;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+#index {
+    background-color: rgb(34, 34, 34);
+    background-image: url(hatter1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+    font-family: Verdana;
+}
+
+#forrasok {
+  background-color: rgb(34, 34, 34);
+  background-image: url(hatter3.jpg);
+  background-size:cover;
+}
+
+#fajtai {
+  background-color: rgb(34, 34, 34);
+  background-image: url(hatter2.jpg);
+  background-size:cover;
+
+}
+
+
+
+  #allsite {
+      width: max-content;
+      margin: auto;
+      margin-top: 200px;
+  }
+
+  #bevezetes {
+    background-image: url(hatter1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+
+  header {
+    background-image: url(fejlechatter.jpg);
+    width: 100%;
+    max-width: 6000px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    box-shadow: 0px 0px 14px black;
+
+  }
+
+.gomb1 {
+  color: rgb(255, 255, 255);
+  border: 2px solid rgb(255, 255, 255);
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 45px;
+  background-color: rgba(240, 248, 255, 0.329);
+}
+
+a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+
+
+.gomb1:active, .gomb1:hover {
+  color: aliceblue;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  box-shadow: 5px 5px 55px rgb(255, 255, 255);
+}
+
+.gomb2:active, .gomb2:hover {
+box-shadow: 0px 0px 6px black;
+}
+
+.gomb2 {
+  color: rgb(100, 100, 100);
+  border: 2px solid rgb(255, 255, 255);
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 10px;
+  border-radius: 100px;
+  background-color: rgba(240, 248, 255, 0.329);
+}
+
+
+#szovegcim1 {
+  color: white;
+  margin: 10px;
+  text-shadow: 0px 0px 20px black;
+  font-size: 40pt;
+}
+
+
+#szovegcim2 {
+  color: white;
+  margin: 10px;
+  text-shadow: 0px 0px 20px black;
+  font-size: 35pt;
+}
+
+#szoveg1 {
+  width: 700px;
+  color: white;
+  margin: 10px;
+  position: absolute;
+  left:10px ;
+  font-size: 17pt;
+}
+
+#szoveg2 {
+  width: 700px;
+  color: white;
+  margin: 10px;
+  position: absolute;
+  top:130px ;
+  left:2px ;
+  font-size: 17pt;
+}
+
+#kep1 {
+  max-width: 500px;
+  width: 100%;
+  float: right;
+  margin: 20px;
+  position:relative;
+  top: -50px;
+  right: 30px;
+  border-radius: 10px;
+  border: 5px ridge rgb(0, 0, 0);
+  box-shadow: 0px 0px 5px black;
+}
+
+#kep2 {
+  max-width: 200px;
+  width: 100%;
+  float: left;
+  margin: 20px;
+  position:relative;
+  top: 150px;
+  left: 20px;
+}
+
+
+
+
+.dobozok {
+  color: aliceblue;
+  position: relative;
+  top: 70px;
+  margin: 20px;
+  width: 100%;
+  max-width: 900px;
+  border: 5px groove black;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.295);
+}
+
+.keep1 {
+
+  width: 200px;
+  position: absolute;
+  top: 250px;
+  left:1000px;
+  margin-bottom: 50px;
+}
+
+.keep2 {
+  
+  width: 130px;
+position: absolute;
+  top: 440px;
+  left: 1050px;
+  margin-bottom: 50px;
+}
+
+.keep3{
+  position: absolute;
+  width: 200px;
+  top: 610px;
+  left: 1010px;
+  margin-bottom: 50px;
+}
+
+.keep4 {
+  left: 1010px;
+  width: 200px;
+  position: absolute;
+  top: 820px;
+  margin-bottom: 50px;
+}
+
+.keep5 {
+  left: 1020px;
+  width: 200px;
+  position: absolute;
+  top: 1000px;
+  margin-bottom: 50px;
+}
+
+#keszitok {
+  color: white;
+  margin: 10px;
+
+}
+
+ul {
+font-size: 20pt;
+}
+
+#keszitokcim {
+  text-align: left;
+  position: relative;
+  top: 30px;
+}
+
+#dobozlink {
+  color: white;
+  margin: 10px;
+}
+
+p {
+  color: white;
+  margin: 10px;
+}
